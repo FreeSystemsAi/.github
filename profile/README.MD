@@ -1,4 +1,4 @@
-# <img src="logo.svg" alt="Free Systems Logo" width="120" /> Free Systems AI Division
+# <img src="logo.svg" alt="Free Systems Logo" width="300" style="vertical-align: middle"/> Free Systems AI Division
 
 🚀 **Передовые решения в области искусственного интеллекта для открытого будущего**
 

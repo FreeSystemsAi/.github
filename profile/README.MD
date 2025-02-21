@@ -1,7 +1,7 @@
 # <picture>
   <source srcset="logo-dark.svg" media="(prefers-color-scheme: light)">
   <source srcset="logo-light.svg" media="(prefers-color-scheme: dark)">
-  <img src="logo-dark.svg" alt="Free Systems Logo" width="120" style="vertical-align: middle"/>
+  <img src="logo-dark.svg" alt="Free Systems Logo" width="300" style="vertical-align: middle"/>
 </picture> Free Systems AI Division
 
 🚀 **Передовые решения в области искусственного интеллекта для открытого будущего**

@@ -1,6 +1,6 @@
 # <picture>
-  <source srcset="profile/logo-dark.svg" media="(prefers-color-scheme: light)">
-  <source srcset="profile/logo-light.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="logo-dark.svg" media="(prefers-color-scheme: light)">
+  <source srcset="logo-light.svg" media="(prefers-color-scheme: dark)">
   <img src="profile/logo-dark.svg" alt="Free Systems Logo" width="120" style="vertical-align: middle"/>
 </picture> Free Systems AI Division
 

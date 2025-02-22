@@ -1,6 +1,7 @@
-
-<img src="logo-dark.svg" alt="Free Systems Logo" width="120" style="vertical-align: middle"/>
-
+<span style="background-color: white; display: inline-block;">
+  <img src="logo-dark.svg" alt="Free Systems Logo" width="300" style="vertical-align: middle"/>
+</span>
+# FreeSystems AI Department
 
 🚀 **Передовые решения в области искусственного интеллекта для открытого будущего**
 

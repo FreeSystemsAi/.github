@@ -1,5 +1,5 @@
 <div style="background-color: white; display: inline-block; padding: 8px;">
-  <img src="logo-dark.svg" alt="Free Systems Logo" width="300">
+  <img src="logo.jpg" alt="Free Systems Logo" width="300">
 </div>
 
 # FreeSystems AI Department

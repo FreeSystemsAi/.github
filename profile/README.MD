@@ -1,5 +1,5 @@
 <span style="background-color: white; display: inline-block;">
-  <img src="logo-dark.svg" alt="Free Systems Logo" width="300" style="vertical-align: middle"/>
+  <img src="logo-light.svg" alt="Free Systems Logo" width="300" style="vertical-align: middle"/>
 </span>
 
 # FreeSystems AI Department

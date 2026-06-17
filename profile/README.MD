@@ -32,7 +32,7 @@
 
 <table>
   <tr>
-    <td align="center" width="250">
+    <td align="center" valign="top" width="250">
       <img src="https://raw.githubusercontent.com/FreeSystemsAi/.github/main/profile/logo-salesmind.svg" width="120" alt="SalesMind"/>
       <br/>
       <b>SalesMind</b>
@@ -41,7 +41,7 @@
       <br/><br/>
       <code>Python</code> <code>TypeScript</code> <code>ML</code>
     </td>
-    <td align="center" width="250">
+    <td align="center" valign="top" width="250">
       <img src="https://raw.githubusercontent.com/FreeSystemsAi/.github/main/profile/logo-panopticon.svg" width="120" alt="Panopticon"/>
       <br/>
       <b>Panopticon</b>
@@ -52,7 +52,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="250">
+    <td align="center" valign="top" width="250">
       <img src="https://raw.githubusercontent.com/FreeSystemsAi/.github/main/profile/logo-aiservice.svg" width="120" alt="AI Service"/>
       <br/>
       <b>AI Service</b>
@@ -61,7 +61,7 @@
       <br/><br/>
       <code>Python</code> <code>NLP</code> <code>API</code>
     </td>
-    <td align="center" width="250">
+    <td align="center" valign="top" width="250">
       <img src="https://raw.githubusercontent.com/FreeSystemsAi/.github/main/profile/logo-receiptai.svg" width="120" alt="ReceiptAI"/>
       <br/>
       <b>ReceiptAI</b>

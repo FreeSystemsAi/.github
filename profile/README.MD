@@ -28,6 +28,55 @@
 
 ---
 
+### Наши проекты
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://raw.githubusercontent.com/FreeSystemsAi/.github/main/profile/logo-salesmind.svg" width="120" alt="SalesMind"/>
+      <br/>
+      <b>SalesMind</b>
+      <br/>
+      <sub>AI-ассистент для продаж. Интеллектуальный анализ клиентов, автоматизация воронки продаж и прогнозирование сделок с помощью машинного обучения.</sub>
+      <br/><br/>
+      <code>Python</code> <code>TypeScript</code> <code>ML</code>
+    </td>
+    <td align="center" width="250">
+      <img src="https://raw.githubusercontent.com/FreeSystemsAi/.github/main/profile/logo-panopticon.svg" width="120" alt="Panopticon"/>
+      <br/>
+      <b>Panopticon</b>
+      <br/>
+      <sub>Система мониторинга и аналитики. Всевидящий контроль инфраструктуры, метрик и событий в реальном времени.</sub>
+      <br/><br/>
+      <code>Monitoring</code> <code>Analytics</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://raw.githubusercontent.com/FreeSystemsAi/.github/main/profile/logo-aiservice.svg" width="120" alt="AI Service"/>
+      <br/>
+      <b>AI Service</b>
+      <br/>
+      <sub>Центральный AI-микросервис. Единая точка входа для моделей машинного обучения, обработки естественного языка и генерации.</sub>
+      <br/><br/>
+      <code>Python</code> <code>NLP</code> <code>API</code>
+    </td>
+    <td align="center" width="250">
+      <img src="https://raw.githubusercontent.com/FreeSystemsAi/.github/main/profile/logo-receiptai.svg" width="120" alt="ReceiptAI"/>
+      <br/>
+      <b>ReceiptAI</b>
+      <br/>
+      <sub>AI-распознавание чеков. Автоматическое извлечение данных из чеков и квитанций с помощью компьютерного зрения.</sub>
+      <br/><br/>
+      <code>Python</code> <code>CV</code> <code>OCR</code>
+      <br/>
+      <sup>archived</sup>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Как присоединиться
 
 Мы верим в силу открытой коллаборации! Вот как можно участвовать:

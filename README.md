@@ -5,5 +5,9 @@
 ### Содержимое
 
 - `profile/README.MD` — профиль организации, отображается на [странице организации](https://github.com/FreeSystemsAi)
-- `profile/logo.jpg`, `profile/logo-light.svg`, `profile/logo-dark.svg` — логотипы
+- `profile/logo.jpg`, `profile/logo-light.svg`, `profile/logo-dark.svg` — логотипы организации
+- `profile/logo-salesmind.svg` — логотип SalesMind
+- `profile/logo-panopticon.svg` — логотип Panopticon
+- `profile/logo-aiservice.svg` — логотип AI Service
+- `profile/logo-receiptai.svg` — логотип ReceiptAI
 - `.github/workflows/` — CI/CD workflows

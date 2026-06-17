@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="pn-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626"/>
+      <stop offset="100%" style="stop-color:#f97316"/>
+    </linearGradient>
+    <radialGradient id="pn-iris" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#fbbf24"/>
+      <stop offset="70%" style="stop-color:#f59e0b"/>
+      <stop offset="100%" style="stop-color:#d97706"/>
+    </radialGradient>
+  </defs>
+  <rect width="200" height="200" rx="40" fill="url(#pn-bg)"/>
+  <!-- Eye outer shape -->
+  <path d="M30 100 Q100 40, 170 100 Q100 160, 30 100 Z" fill="white" fill-opacity="0.95"/>
+  <!-- Iris -->
+  <circle cx="100" cy="100" r="32" fill="url(#pn-iris)"/>
+  <!-- Pupil -->
+  <circle cx="100" cy="100" r="14" fill="#1a1a2e"/>
+  <!-- Pupil highlight -->
+  <circle cx="93" cy="93" r="5" fill="white" opacity="0.7"/>
+  <!-- Scan rings -->
+  <circle cx="100" cy="100" r="45" fill="none" stroke="white" stroke-width="1.5" opacity="0.3"/>
+  <circle cx="100" cy="100" r="55" fill="none" stroke="white" stroke-width="1" opacity="0.2"/>
+  <!-- Corner brackets - top left -->
+  <path d="M42 55 L42 42 L55 42" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+  <!-- Corner brackets - top right -->
+  <path d="M145 42 L158 42 L158 55" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+  <!-- Corner brackets - bottom left -->
+  <path d="M42 145 L42 158 L55 158" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+  <!-- Corner brackets - bottom right -->
+  <path d="M145 158 L158 158 L158 145" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+  <!-- Text -->
+  <text x="100" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" letter-spacing="3">PANOPTICON</text>
+</svg>

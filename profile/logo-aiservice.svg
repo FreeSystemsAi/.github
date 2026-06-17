@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="as-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0ea5e9"/>
+      <stop offset="100%" style="stop-color:#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="40" fill="url(#as-bg)"/>
+  <!-- Gear outer -->
+  <path d="M100 45 L107 55 L118 52 L120 63 L131 66 L128 77 L138 84 L130 92 L136 102 L125 105 L126 116 L115 114 L110 124 L100 118 L90 124 L85 114 L74 116 L75 105 L64 102 L70 92 L62 84 L72 77 L69 66 L80 63 L82 52 L93 55 Z" fill="none" stroke="white" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Gear inner circle -->
+  <circle cx="100" cy="85" r="18" fill="none" stroke="white" stroke-width="3"/>
+  <!-- AI chip center -->
+  <rect x="90" y="75" width="20" height="20" rx="3" fill="white" fill-opacity="0.9"/>
+  <text x="100" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#3b82f6">AI</text>
+  <!-- Connection nodes -->
+  <circle cx="65" cy="130" r="8" fill="white" fill-opacity="0.3" stroke="white" stroke-width="2"/>
+  <circle cx="100" cy="145" r="8" fill="white" fill-opacity="0.3" stroke="white" stroke-width="2"/>
+  <circle cx="135" cy="130" r="8" fill="white" fill-opacity="0.3" stroke="white" stroke-width="2"/>
+  <!-- Connection lines -->
+  <line x1="75" y1="105" x2="65" y2="122" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <line x1="100" y1="116" x2="100" y2="137" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <line x1="125" y1="105" x2="135" y2="122" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <line x1="65" y1="130" x2="100" y2="145" stroke="white" stroke-width="1.5" opacity="0.5"/>
+  <line x1="100" y1="145" x2="135" y2="130" stroke="white" stroke-width="1.5" opacity="0.5"/>
+  <!-- Text -->
+  <text x="100" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" letter-spacing="1.5">AI SERVICE</text>
+</svg>

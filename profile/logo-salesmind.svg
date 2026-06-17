@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="sm-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="sm-accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a5b4fc"/>
+      <stop offset="100%" style="stop-color:#c4b5fd"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="40" fill="url(#sm-bg)"/>
+  <!-- Brain outline left -->
+  <path d="M70 120 C45 120, 40 95, 55 80 C45 70, 50 55, 65 55 C65 40, 85 35, 95 50" stroke="white" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Brain outline right -->
+  <path d="M95 50 C105 35, 125 40, 125 55 C140 55, 145 70, 135 80 C150 95, 145 120, 120 120" stroke="white" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Brain center line -->
+  <path d="M95 50 L95 120" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Brain connections -->
+  <circle cx="75" cy="78" r="4" fill="url(#sm-accent)"/>
+  <circle cx="115" cy="78" r="4" fill="url(#sm-accent)"/>
+  <circle cx="82" cy="98" r="3" fill="url(#sm-accent)"/>
+  <circle cx="108" cy="98" r="3" fill="url(#sm-accent)"/>
+  <line x1="75" y1="78" x2="95" y2="70" stroke="url(#sm-accent)" stroke-width="2"/>
+  <line x1="115" y1="78" x2="95" y2="70" stroke="url(#sm-accent)" stroke-width="2"/>
+  <line x1="82" y1="98" x2="95" y2="90" stroke="url(#sm-accent)" stroke-width="2"/>
+  <line x1="108" y1="98" x2="95" y2="90" stroke="url(#sm-accent)" stroke-width="2"/>
+  <!-- Chart arrow going up -->
+  <polyline points="60,155 80,148 100,140 120,130 140,115" stroke="#34d399" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="140,115 145,125 135,123" fill="#34d399"/>
+  <!-- Text -->
+  <text x="100" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" letter-spacing="2">SALESMIND</text>
+</svg>
